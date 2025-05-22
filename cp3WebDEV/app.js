@@ -21,6 +21,7 @@ botaoCadastrar.addEventListener("click", function(e) {
 
 
     NovoBloco = document.createElement("div")
+    NovoBloco.classList.add("novo-produto")
 
     const NovoProduto = document.createElement("p")
     NovoProduto.innerHTML = `Produto: ${produtosForm.value}<br> Preço: R$ ${precoForm.value}<br> Categoria: ${categoriaProduto.value}`
