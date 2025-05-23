@@ -45,3 +45,8 @@ Este projeto utiliza as seguintes tecnologias:
    **Para clonar via Git**:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git# CheckPoint-3-WebDev
+
+# Participantes
+
+- ## Matheus Tozarelli Egea (RM: 563490)
+- ## Patrick Canuto dos Santos (RM: 563776)
